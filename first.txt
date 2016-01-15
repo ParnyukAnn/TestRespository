@@ -1,3 +1,1 @@
 Line for the first commit.
-Line for the second commit.
-Line for the third commit.
